@@ -1,0 +1,8 @@
+*.o
+*.a
+*.so
+*.dylib
+test
+result
+result-*
+.direnv
