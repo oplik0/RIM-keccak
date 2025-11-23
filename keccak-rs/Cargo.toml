@@ -7,6 +7,7 @@ edition = "2024"
 
 [dev-dependencies]
 criterion = { version = "0.7", features = ["html_reports"] }
+hex = "0.4"
 
 [[bench]]
 name = "keccak_bench"
